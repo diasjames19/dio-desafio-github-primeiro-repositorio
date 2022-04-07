@@ -1,0 +1,22 @@
+
+#Comandos Git
+=====================================================================================================================================
+git init : iniciar repositorio
+git add:mover arquivo
+git commit:criar o commit
+ls -a:fleg para ver arquivo oculto
+git config --global user.email:configurar a primeira vez o email no diretorio git
+git config --global user.name:configurar a primeira vez o nome de usuario no diretorio git
+git add *:
+git status: ver como estão os arquivos
+mv arquivo diretorio
+git confi --li:lista configuração do git
+git remote add origin: colocar o link do github para cadastrar repositorio remoto
+git push: para empura arquivo github repositorio remoto
+git pull: puchar o arquivo do repositorio remoto
+git clone caminho:clona uma pasta de outro repositori
+
+===================================================================================================================================
+
+#Criando Chave SSH
+->ssh-keygen -t ed25519 -C usuario@email.com
